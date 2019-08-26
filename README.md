@@ -1,5 +1,6 @@
 # Kabuka door & window monitoring
-Digitalent IoT 2019 final project v1.0
+Digitalent IoT 2019 final project v1.0.
+
 Door & window state on/off monitoring system using ESP32 and MC-38 sensor.
 
 ## Architecture
